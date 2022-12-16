@@ -1,4 +1,4 @@
 spec:
   containers:
     - name: abcde
-      image: xxxxxxx.dkr.ecr.region.amazonaws.com/yyyyy@sha256:12354546547657oijgsoiregj
+      image: xxxxxxx.dkr.ecr.region.amazonaws.com/yyyyy:1111
